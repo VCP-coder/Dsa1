@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/VCP-coder/Dsa1/tree/master/0074-search-a-2d-matrix) |
 | [1528-shuffle-string](https://github.com/VCP-coder/Dsa1/tree/master/1528-shuffle-string) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/VCP-coder/Dsa1/tree/master/3131-find-the-integer-added-to-array-i) |
 ## String
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/VCP-coder/Dsa1/tree/master/0844-backspace-string-compare) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/VCP-coder/Dsa1/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/VCP-coder/Dsa1/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
