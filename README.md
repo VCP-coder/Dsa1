@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/VCP-coder/Dsa1/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/VCP-coder/Dsa1/tree/master/0268-missing-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/VCP-coder/Dsa1/tree/master/1389-create-target-array-in-the-given-order) |
 | [1528-shuffle-string](https://github.com/VCP-coder/Dsa1/tree/master/1528-shuffle-string) |
 | [3033-modify-the-matrix](https://github.com/VCP-coder/Dsa1/tree/master/3033-modify-the-matrix) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/VCP-coder/Dsa1/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/VCP-coder/Dsa1/tree/master/0844-backspace-string-compare) |
+| [1389-create-target-array-in-the-given-order](https://github.com/VCP-coder/Dsa1/tree/master/1389-create-target-array-in-the-given-order) |
 ## Binary Search
 |  |
 | ------- |
