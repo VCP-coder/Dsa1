@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VCP-coder/Dsa1/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/VCP-coder/Dsa1/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/VCP-coder/Dsa1/tree/master/1544-make-the-string-great) |
+| [3210-find-the-encrypted-string](https://github.com/VCP-coder/Dsa1/tree/master/3210-find-the-encrypted-string) |
 ## Stack
 |  |
 | ------- |
