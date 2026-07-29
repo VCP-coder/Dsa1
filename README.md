@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/VCP-coder/Dsa1/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/VCP-coder/Dsa1/tree/master/0268-missing-number) |
+| [0946-validate-stack-sequences](https://github.com/VCP-coder/Dsa1/tree/master/0946-validate-stack-sequences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/VCP-coder/Dsa1/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VCP-coder/Dsa1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/VCP-coder/Dsa1/tree/master/1528-shuffle-string) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/VCP-coder/Dsa1/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/VCP-coder/Dsa1/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VCP-coder/Dsa1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0946-validate-stack-sequences](https://github.com/VCP-coder/Dsa1/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VCP-coder/Dsa1/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/VCP-coder/Dsa1/tree/master/1544-make-the-string-great) |
 | [2487-remove-nodes-from-linked-list](https://github.com/VCP-coder/Dsa1/tree/master/2487-remove-nodes-from-linked-list) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/VCP-coder/Dsa1/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/VCP-coder/Dsa1/tree/master/0946-validate-stack-sequences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/VCP-coder/Dsa1/tree/master/1389-create-target-array-in-the-given-order) |
 ## Binary Search
 |  |
