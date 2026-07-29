@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VCP-coder/Dsa1/tree/master/0020-valid-parentheses) |
+| [0389-find-the-difference](https://github.com/VCP-coder/Dsa1/tree/master/0389-find-the-difference) |
 | [0791-custom-sort-string](https://github.com/VCP-coder/Dsa1/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/VCP-coder/Dsa1/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/VCP-coder/Dsa1/tree/master/0844-backspace-string-compare) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/VCP-coder/Dsa1/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/VCP-coder/Dsa1/tree/master/0389-find-the-difference) |
 | [0791-custom-sort-string](https://github.com/VCP-coder/Dsa1/tree/master/0791-custom-sort-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VCP-coder/Dsa1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
@@ -71,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/VCP-coder/Dsa1/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/VCP-coder/Dsa1/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/VCP-coder/Dsa1/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/VCP-coder/Dsa1/tree/master/0389-find-the-difference) |
 | [0791-custom-sort-string](https://github.com/VCP-coder/Dsa1/tree/master/0791-custom-sort-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VCP-coder/Dsa1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VCP-coder/Dsa1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
