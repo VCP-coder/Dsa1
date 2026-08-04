@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/VCP-coder/Dsa1/tree/master/1768-merge-strings-alternately) |
 | [3210-find-the-encrypted-string](https://github.com/VCP-coder/Dsa1/tree/master/3210-find-the-encrypted-string) |
 | [3227-vowels-game-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/3227-vowels-game-in-a-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -54,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/VCP-coder/Dsa1/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/VCP-coder/Dsa1/tree/master/1768-merge-strings-alternately) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/VCP-coder/Dsa1/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/VCP-coder/Dsa1/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/VCP-coder/Dsa1/tree/master/0946-validate-stack-sequences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/VCP-coder/Dsa1/tree/master/1389-create-target-array-in-the-given-order) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
