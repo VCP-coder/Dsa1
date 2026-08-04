@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/VCP-coder/Dsa1/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3033-modify-the-matrix](https://github.com/VCP-coder/Dsa1/tree/master/3033-modify-the-matrix) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/VCP-coder/Dsa1/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3731-find-missing-elements](https://github.com/VCP-coder/Dsa1/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/VCP-coder/Dsa1/tree/master/0791-custom-sort-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VCP-coder/Dsa1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VCP-coder/Dsa1/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3731-find-missing-elements](https://github.com/VCP-coder/Dsa1/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/VCP-coder/Dsa1/tree/master/0791-custom-sort-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VCP-coder/Dsa1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VCP-coder/Dsa1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/VCP-coder/Dsa1/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
