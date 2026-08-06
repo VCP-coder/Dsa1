@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/VCP-coder/Dsa1/tree/master/0877-stone-game) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VCP-coder/Dsa1/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3227-vowels-game-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/3227-vowels-game-in-a-string) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/VCP-coder/Dsa1/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/VCP-coder/Dsa1/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
 |  |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/VCP-coder/Dsa1/tree/master/0877-stone-game) |
 | [3227-vowels-game-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/3227-vowels-game-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/VCP-coder/Dsa1/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
