@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/VCP-coder/Dsa1/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/VCP-coder/Dsa1/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/VCP-coder/Dsa1/tree/master/0877-stone-game) |
+| [0922-sort-array-by-parity-ii](https://github.com/VCP-coder/Dsa1/tree/master/0922-sort-array-by-parity-ii) |
 | [0946-validate-stack-sequences](https://github.com/VCP-coder/Dsa1/tree/master/0946-validate-stack-sequences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VCP-coder/Dsa1/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1389-create-target-array-in-the-given-order](https://github.com/VCP-coder/Dsa1/tree/master/1389-create-target-array-in-the-given-order) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/VCP-coder/Dsa1/tree/master/0015-3sum) |
 | [0844-backspace-string-compare](https://github.com/VCP-coder/Dsa1/tree/master/0844-backspace-string-compare) |
+| [0922-sort-array-by-parity-ii](https://github.com/VCP-coder/Dsa1/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/VCP-coder/Dsa1/tree/master/1768-merge-strings-alternately) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/VCP-coder/Dsa1/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VCP-coder/Dsa1/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/VCP-coder/Dsa1/tree/master/0389-find-the-difference) |
 | [0791-custom-sort-string](https://github.com/VCP-coder/Dsa1/tree/master/0791-custom-sort-string) |
+| [0922-sort-array-by-parity-ii](https://github.com/VCP-coder/Dsa1/tree/master/0922-sort-array-by-parity-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VCP-coder/Dsa1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VCP-coder/Dsa1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/VCP-coder/Dsa1/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
