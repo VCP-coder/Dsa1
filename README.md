@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/VCP-coder/Dsa1/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/VCP-coder/Dsa1/tree/master/0946-validate-stack-sequences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/VCP-coder/Dsa1/tree/master/1389-create-target-array-in-the-given-order) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/VCP-coder/Dsa1/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Binary Search
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/VCP-coder/Dsa1/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/VCP-coder/Dsa1/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
