@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/VCP-coder/Dsa1/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/VCP-coder/Dsa1/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VCP-coder/Dsa1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/VCP-coder/Dsa1/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2236-root-equals-sum-of-children](https://github.com/VCP-coder/Dsa1/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/VCP-coder/Dsa1/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/VCP-coder/Dsa1/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VCP-coder/Dsa1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/VCP-coder/Dsa1/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VCP-coder/Dsa1/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/VCP-coder/Dsa1/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VCP-coder/Dsa1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/VCP-coder/Dsa1/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2236-root-equals-sum-of-children](https://github.com/VCP-coder/Dsa1/tree/master/2236-root-equals-sum-of-children) |
 ## String Matching
 |  |
