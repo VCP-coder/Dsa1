@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/VCP-coder/Dsa1/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/VCP-coder/Dsa1/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/VCP-coder/Dsa1/tree/master/1768-merge-strings-alternately) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VCP-coder/Dsa1/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3210-find-the-encrypted-string](https://github.com/VCP-coder/Dsa1/tree/master/3210-find-the-encrypted-string) |
 | [3227-vowels-game-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/3227-vowels-game-in-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/VCP-coder/Dsa1/tree/master/0389-find-the-difference) |
 | [0791-custom-sort-string](https://github.com/VCP-coder/Dsa1/tree/master/0791-custom-sort-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VCP-coder/Dsa1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VCP-coder/Dsa1/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VCP-coder/Dsa1/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3731-find-missing-elements](https://github.com/VCP-coder/Dsa1/tree/master/3731-find-missing-elements) |
 ## Math
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VCP-coder/Dsa1/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/VCP-coder/Dsa1/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VCP-coder/Dsa1/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Sliding Window
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VCP-coder/Dsa1/tree/master/0219-contains-duplicate-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VCP-coder/Dsa1/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VCP-coder/Dsa1/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Brainteaser
 |  |
 | ------- |
