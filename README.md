@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/3227-vowels-game-in-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VCP-coder/Dsa1/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VCP-coder/Dsa1/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/VCP-coder/Dsa1/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3870-count-commas-in-range](https://github.com/VCP-coder/Dsa1/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/VCP-coder/Dsa1/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/VCP-coder/Dsa1/tree/master/0877-stone-game) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/VCP-coder/Dsa1/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VCP-coder/Dsa1/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/VCP-coder/Dsa1/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Lifting
 |  |
 | ------- |
