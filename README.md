@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/VCP-coder/Dsa1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VCP-coder/Dsa1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VCP-coder/Dsa1/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/VCP-coder/Dsa1/tree/master/0234-palindrome-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/VCP-coder/Dsa1/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/VCP-coder/Dsa1/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/VCP-coder/Dsa1/tree/master/0654-maximum-binary-tree) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/VCP-coder/Dsa1/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/VCP-coder/Dsa1/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/VCP-coder/Dsa1/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/VCP-coder/Dsa1/tree/master/0844-backspace-string-compare) |
 | [0922-sort-array-by-parity-ii](https://github.com/VCP-coder/Dsa1/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/VCP-coder/Dsa1/tree/master/0977-squares-of-a-sorted-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/VCP-coder/Dsa1/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/VCP-coder/Dsa1/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/VCP-coder/Dsa1/tree/master/0234-palindrome-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/VCP-coder/Dsa1/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/VCP-coder/Dsa1/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VCP-coder/Dsa1/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/VCP-coder/Dsa1/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/VCP-coder/Dsa1/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/VCP-coder/Dsa1/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/VCP-coder/Dsa1/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/VCP-coder/Dsa1/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
