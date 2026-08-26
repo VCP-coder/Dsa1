@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/VCP-coder/Dsa1/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VCP-coder/Dsa1/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/VCP-coder/Dsa1/tree/master/1544-make-the-string-great) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VCP-coder/Dsa1/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/VCP-coder/Dsa1/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/VCP-coder/Dsa1/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/VCP-coder/Dsa1/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/VCP-coder/Dsa1/tree/master/1768-merge-strings-alternately) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VCP-coder/Dsa1/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/VCP-coder/Dsa1/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/VCP-coder/Dsa1/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/VCP-coder/Dsa1/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/VCP-coder/Dsa1/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/VCP-coder/Dsa1/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VCP-coder/Dsa1/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/VCP-coder/Dsa1/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/VCP-coder/Dsa1/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VCP-coder/Dsa1/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
