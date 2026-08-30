@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/VCP-coder/Dsa1/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/VCP-coder/Dsa1/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VCP-coder/Dsa1/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/VCP-coder/Dsa1/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/VCP-coder/Dsa1/tree/master/0844-backspace-string-compare) |
 | [0922-sort-array-by-parity-ii](https://github.com/VCP-coder/Dsa1/tree/master/0922-sort-array-by-parity-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/VCP-coder/Dsa1/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/VCP-coder/Dsa1/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VCP-coder/Dsa1/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/VCP-coder/Dsa1/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VCP-coder/Dsa1/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/VCP-coder/Dsa1/tree/master/2181-merge-nodes-in-between-zeros) |
