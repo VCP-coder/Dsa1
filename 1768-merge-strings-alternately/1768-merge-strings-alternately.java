@@ -10,8 +10,8 @@ class Solution {
             if(w2<word2.length()){
                 sb.append(word2.charAt(w2));
             }
-            w1++;
-            w2++;
+        w1++;
+        w2++;
         }
     return sb.toString();
     }
