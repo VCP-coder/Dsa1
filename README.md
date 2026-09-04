@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VCP-coder/Dsa1/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VCP-coder/Dsa1/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/VCP-coder/Dsa1/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/VCP-coder/Dsa1/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
@@ -381,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/VCP-coder/Dsa1/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/VCP-coder/Dsa1/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/VCP-coder/Dsa1/tree/master/0938-range-sum-of-bst) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/VCP-coder/Dsa1/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
