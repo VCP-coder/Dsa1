@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/VCP-coder/Dsa1/tree/master/0018-4sum) |
 | [0074-search-a-2d-matrix](https://github.com/VCP-coder/Dsa1/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VCP-coder/Dsa1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VCP-coder/Dsa1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0219-contains-duplicate-ii](https://github.com/VCP-coder/Dsa1/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/VCP-coder/Dsa1/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/VCP-coder/Dsa1/tree/master/0485-max-consecutive-ones) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VCP-coder/Dsa1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/VCP-coder/Dsa1/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/VCP-coder/Dsa1/tree/master/0877-stone-game) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/VCP-coder/Dsa1/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VCP-coder/Dsa1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VCP-coder/Dsa1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VCP-coder/Dsa1/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Counting
