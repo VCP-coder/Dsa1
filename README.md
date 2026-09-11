@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/VCP-coder/Dsa1/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/VCP-coder/Dsa1/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VCP-coder/Dsa1/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/VCP-coder/Dsa1/tree/master/0389-find-the-difference) |
 | [0791-custom-sort-string](https://github.com/VCP-coder/Dsa1/tree/master/0791-custom-sort-string) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VCP-coder/Dsa1/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/VCP-coder/Dsa1/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VCP-coder/Dsa1/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/VCP-coder/Dsa1/tree/master/0389-find-the-difference) |
 | [0791-custom-sort-string](https://github.com/VCP-coder/Dsa1/tree/master/0791-custom-sort-string) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VCP-coder/Dsa1/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VCP-coder/Dsa1/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/VCP-coder/Dsa1/tree/master/0018-4sum) |
+| [0242-valid-anagram](https://github.com/VCP-coder/Dsa1/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VCP-coder/Dsa1/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/VCP-coder/Dsa1/tree/master/0389-find-the-difference) |
 | [0791-custom-sort-string](https://github.com/VCP-coder/Dsa1/tree/master/0791-custom-sort-string) |
