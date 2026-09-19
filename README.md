@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VCP-coder/Dsa1/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/VCP-coder/Dsa1/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/VCP-coder/Dsa1/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/VCP-coder/Dsa1/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VCP-coder/Dsa1/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VCP-coder/Dsa1/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3227-vowels-game-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/3227-vowels-game-in-a-string) |
@@ -404,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/VCP-coder/Dsa1/tree/master/3903-smallest-stable-index-i) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/VCP-coder/Dsa1/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
