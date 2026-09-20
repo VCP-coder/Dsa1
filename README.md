@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VCP-coder/Dsa1/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3210-find-the-encrypted-string](https://github.com/VCP-coder/Dsa1/tree/master/3210-find-the-encrypted-string) |
 | [3227-vowels-game-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/3227-vowels-game-in-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/VCP-coder/Dsa1/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Stack
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/VCP-coder/Dsa1/tree/master/1389-create-target-array-in-the-given-order) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/VCP-coder/Dsa1/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VCP-coder/Dsa1/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/VCP-coder/Dsa1/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Binary Search
 |  |
