@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VCP-coder/Dsa1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VCP-coder/Dsa1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0219-contains-duplicate-ii](https://github.com/VCP-coder/Dsa1/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/VCP-coder/Dsa1/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/VCP-coder/Dsa1/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/VCP-coder/Dsa1/tree/master/0485-max-consecutive-ones) |
 | [0654-maximum-binary-tree](https://github.com/VCP-coder/Dsa1/tree/master/0654-maximum-binary-tree) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/VCP-coder/Dsa1/tree/master/0238-product-of-array-except-self) |
 | [3903-smallest-stable-index-i](https://github.com/VCP-coder/Dsa1/tree/master/3903-smallest-stable-index-i) |
 ## Geometry
 |  |
