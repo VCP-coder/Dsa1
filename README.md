@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/VCP-coder/Dsa1/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/VCP-coder/Dsa1/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VCP-coder/Dsa1/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VCP-coder/Dsa1/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/VCP-coder/Dsa1/tree/master/0389-find-the-difference) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/VCP-coder/Dsa1/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VCP-coder/Dsa1/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/VCP-coder/Dsa1/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VCP-coder/Dsa1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/VCP-coder/Dsa1/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/VCP-coder/Dsa1/tree/master/0844-backspace-string-compare) |
