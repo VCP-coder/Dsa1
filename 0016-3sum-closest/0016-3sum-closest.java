@@ -10,12 +10,13 @@ class Solution {
             if(Math.abs(target-tmp)<Math.abs(target-sum)){
                 sum=tmp;
             }
-            else if(tmp<target){
-                j++;
-            }
-            else{
-                k--;
-            }
+              if (tmp < target) {
+                    j++;
+                } else if (tmp> target) {
+                    k--;
+                } else {
+                    return tmp;
+                }
         }
        } 
     return sum;
