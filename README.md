@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VCP-coder/Dsa1/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VCP-coder/Dsa1/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/VCP-coder/Dsa1/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/VCP-coder/Dsa1/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/VCP-coder/Dsa1/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/VCP-coder/Dsa1/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VCP-coder/Dsa1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VCP-coder/Dsa1/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/VCP-coder/Dsa1/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/VCP-coder/Dsa1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VCP-coder/Dsa1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VCP-coder/Dsa1/tree/master/0145-binary-tree-postorder-traversal) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/VCP-coder/Dsa1/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/VCP-coder/Dsa1/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/VCP-coder/Dsa1/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/VCP-coder/Dsa1/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VCP-coder/Dsa1/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/VCP-coder/Dsa1/tree/master/0125-valid-palindrome) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VCP-coder/Dsa1/tree/master/0042-trapping-rain-water) |
 | [0654-maximum-binary-tree](https://github.com/VCP-coder/Dsa1/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/VCP-coder/Dsa1/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VCP-coder/Dsa1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VCP-coder/Dsa1/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VCP-coder/Dsa1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/VCP-coder/Dsa1/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/VCP-coder/Dsa1/tree/master/0877-stone-game) |
