@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VCP-coder/Dsa1/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VCP-coder/Dsa1/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/VCP-coder/Dsa1/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/VCP-coder/Dsa1/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/VCP-coder/Dsa1/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3033-modify-the-matrix](https://github.com/VCP-coder/Dsa1/tree/master/3033-modify-the-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VCP-coder/Dsa1/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/VCP-coder/Dsa1/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VCP-coder/Dsa1/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/VCP-coder/Dsa1/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Lifting
