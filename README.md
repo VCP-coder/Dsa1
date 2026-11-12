@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/VCP-coder/Dsa1/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3033-modify-the-matrix](https://github.com/VCP-coder/Dsa1/tree/master/3033-modify-the-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VCP-coder/Dsa1/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/VCP-coder/Dsa1/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/VCP-coder/Dsa1/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VCP-coder/Dsa1/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VCP-coder/Dsa1/tree/master/3718-smallest-missing-multiple-of-k) |
