@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VCP-coder/Dsa1/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VCP-coder/Dsa1/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/VCP-coder/Dsa1/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/VCP-coder/Dsa1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/VCP-coder/Dsa1/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/VCP-coder/Dsa1/tree/master/0075-sort-colors) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VCP-coder/Dsa1/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/VCP-coder/Dsa1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/VCP-coder/Dsa1/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VCP-coder/Dsa1/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/VCP-coder/Dsa1/tree/master/0234-palindrome-linked-list) |
