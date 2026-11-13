@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/VCP-coder/Dsa1/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VCP-coder/Dsa1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0076-minimum-window-substring](https://github.com/VCP-coder/Dsa1/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/VCP-coder/Dsa1/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VCP-coder/Dsa1/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VCP-coder/Dsa1/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/VCP-coder/Dsa1/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/VCP-coder/Dsa1/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/VCP-coder/Dsa1/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VCP-coder/Dsa1/tree/master/0268-missing-number) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/VCP-coder/Dsa1/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/VCP-coder/Dsa1/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/VCP-coder/Dsa1/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/VCP-coder/Dsa1/tree/master/1052-grumpy-bookstore-owner) |
