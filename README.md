@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VCP-coder/Dsa1/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/VCP-coder/Dsa1/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/VCP-coder/Dsa1/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/VCP-coder/Dsa1/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/VCP-coder/Dsa1/tree/master/0680-valid-palindrome-ii) |
 | [0791-custom-sort-string](https://github.com/VCP-coder/Dsa1/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/VCP-coder/Dsa1/tree/master/0796-rotate-string) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VCP-coder/Dsa1/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VCP-coder/Dsa1/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/VCP-coder/Dsa1/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/VCP-coder/Dsa1/tree/master/0424-longest-repeating-character-replacement) |
 | [0791-custom-sort-string](https://github.com/VCP-coder/Dsa1/tree/master/0791-custom-sort-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VCP-coder/Dsa1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VCP-coder/Dsa1/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/VCP-coder/Dsa1/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/VCP-coder/Dsa1/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/VCP-coder/Dsa1/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/VCP-coder/Dsa1/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/VCP-coder/Dsa1/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VCP-coder/Dsa1/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
