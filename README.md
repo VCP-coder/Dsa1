@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/VCP-coder/Dsa1/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/VCP-coder/Dsa1/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VCP-coder/Dsa1/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/VCP-coder/Dsa1/tree/master/3364-minimum-positive-sum-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VCP-coder/Dsa1/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/VCP-coder/Dsa1/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/VCP-coder/Dsa1/tree/master/3903-smallest-stable-index-i) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VCP-coder/Dsa1/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VCP-coder/Dsa1/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VCP-coder/Dsa1/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/VCP-coder/Dsa1/tree/master/3364-minimum-positive-sum-subarray) |
 ## Brainteaser
 |  |
 | ------- |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/VCP-coder/Dsa1/tree/master/0238-product-of-array-except-self) |
+| [3364-minimum-positive-sum-subarray](https://github.com/VCP-coder/Dsa1/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/VCP-coder/Dsa1/tree/master/3903-smallest-stable-index-i) |
 ## Geometry
 |  |
