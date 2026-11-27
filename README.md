@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/VCP-coder/Dsa1/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VCP-coder/Dsa1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VCP-coder/Dsa1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/VCP-coder/Dsa1/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/VCP-coder/Dsa1/tree/master/1528-shuffle-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VCP-coder/Dsa1/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VCP-coder/Dsa1/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/VCP-coder/Dsa1/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/VCP-coder/Dsa1/tree/master/1480-running-sum-of-1d-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/VCP-coder/Dsa1/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/VCP-coder/Dsa1/tree/master/3903-smallest-stable-index-i) |
 ## Geometry
