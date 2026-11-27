@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VCP-coder/Dsa1/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/VCP-coder/Dsa1/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/VCP-coder/Dsa1/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/VCP-coder/Dsa1/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VCP-coder/Dsa1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/VCP-coder/Dsa1/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/VCP-coder/Dsa1/tree/master/0283-move-zeroes) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/VCP-coder/Dsa1/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/VCP-coder/Dsa1/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/VCP-coder/Dsa1/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/VCP-coder/Dsa1/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/VCP-coder/Dsa1/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VCP-coder/Dsa1/tree/master/0268-missing-number) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/VCP-coder/Dsa1/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VCP-coder/Dsa1/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/VCP-coder/Dsa1/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/VCP-coder/Dsa1/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/VCP-coder/Dsa1/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/VCP-coder/Dsa1/tree/master/0876-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/VCP-coder/Dsa1/tree/master/1669-merge-in-between-linked-lists) |
@@ -486,4 +489,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/VCP-coder/Dsa1/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/VCP-coder/Dsa1/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
