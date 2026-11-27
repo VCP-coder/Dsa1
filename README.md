@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/VCP-coder/Dsa1/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/VCP-coder/Dsa1/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/VCP-coder/Dsa1/tree/master/0654-maximum-binary-tree) |
+| [0724-find-pivot-index](https://github.com/VCP-coder/Dsa1/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/VCP-coder/Dsa1/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/VCP-coder/Dsa1/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/VCP-coder/Dsa1/tree/master/0896-monotonic-array) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/VCP-coder/Dsa1/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/VCP-coder/Dsa1/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/VCP-coder/Dsa1/tree/master/1480-running-sum-of-1d-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/VCP-coder/Dsa1/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/VCP-coder/Dsa1/tree/master/3903-smallest-stable-index-i) |
